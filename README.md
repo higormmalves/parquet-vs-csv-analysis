@@ -97,12 +97,6 @@ Formatos construídos sobre Parquet que adicionam recursos de gerenciamento de d
 * Pandas
 * PyArrow
 
-Instalação:
-
-```bash
-pip install pandas pyarrow
-```
-
 ---
 
 # 🔄 Processo realizado
@@ -242,12 +236,6 @@ Formats built on top of Parquet that provide additional data management capabili
 * Python
 * Pandas
 * PyArrow
-
-Installation:
-
-```bash
-pip install pandas pyarrow
-```
 
 ---
 
